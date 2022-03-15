@@ -6,6 +6,6 @@ Thay đổi nội dung các file:
 - vn.VietTect.Connection.DBConnect
 
 # Giới thiệu code chức năng
-vn.Vietshop thực thi các chức năng các chức năng khách
-vn.iotstar thực thi các chức năng các chức năng admin
-trinhtruong2k1.io.seller thực thi các chức năng của seller
+- vn.Vietshop thực thi các chức năng các chức năng khách
+- vn.iotstar thực thi các chức năng các chức năng admin
+- trinhtruong2k1.io.seller thực thi các chức năng của seller
