@@ -1,6 +1,10 @@
 # Hướng dẫn cài đặt
 ## Yêu cầu
-
+- jre1.8.0_191
+- jdk1.8.0_191
+- sqljdbc_9.4
+- apache-maven-3.6.0
+- apache-tomcat-8.5.34
 ## Hướng dẫn mở port 1433 để kết nối vào database
 Có thể tham khảo link:https://kienthuclaptrinh.vn/2012/07/24/7-buoc-de-mo-port-1433-cho-ms-sql-server/
 ## Hướng dẫn điều chỉnh thông tin để kết nối vào database
