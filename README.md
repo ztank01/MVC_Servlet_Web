@@ -14,7 +14,10 @@ Thay đổi nội dung các file:
 - trinhtruong2k1.io.seller.DaoImpl.AbstractDao
 - vn.iostar.connection.DBConnect
 - vn.VietTect.Connection.DBConnect
-
+## Vị trí lưu hình ảnh
+- Lưu ảnh sản phẩm: D:\uploads\product\
+- Lưu icon category: D:\uploads\category\
+- Tên file giống như trong database
 # Giới thiệu code chức năng
 - vn.Vietshop thực thi các chức năng các chức năng khách
 - vn.iotstar thực thi các chức năng các chức năng admin
