@@ -1,4 +1,5 @@
 # Hướng dẫn cài đặt
+## Cần phải tải template về mới chạy được
 ## Yêu cầu 
 - jre1.8.0_191
 - jdk1.8.0_191
