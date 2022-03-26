@@ -1,5 +1,5 @@
 # Hướng dẫn cài đặt
-## Lưu ý: Cần phải tải template theo hướng dẫn tại MVC_Servlet_Web/DoAnCuoiKy/webapp/templates/ về mới chạy được
+### Lưu ý: Cần phải tải template theo hướng dẫn tại MVC_Servlet_Web/DoAnCuoiKy/webapp/templates/ về mới chạy được
 ## Yêu cầu 
 - jre1.8.0_191
 - jdk1.8.0_191
