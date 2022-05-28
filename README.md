@@ -7,6 +7,7 @@
 - apache-maven-3.6.0
 - apache-tomcat-8.5.34
 - Có thể chạy trên Eclipse 2018-09 (4.9.0)
+- SQL Server Management Studio version 15.0.18390.0
 ## Hướng dẫn mở port 1433 để kết nối vào database
 Có thể tham khảo link:https://kienthuclaptrinh.vn/2012/07/24/7-buoc-de-mo-port-1433-cho-ms-sql-server/
 ## Hướng dẫn điều chỉnh thông tin để kết nối vào database
