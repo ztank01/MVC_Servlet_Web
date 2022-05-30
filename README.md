@@ -2,7 +2,6 @@
 - Võ Trường Duy : Thực hiện các chức năng cho Admin sử dụng
 - Hồ Huy Luật : Thực hiện các chức năng cho User sử dụng
 - Trịnh Công Trưởng : Thực hiện các chức năng cho Seller sử dụng
-### Đặc tả chức năng và hướng dẫn sử dụng được ghi ở trong file báo cáo
 ### Lưu ý: Do template khá nặng (khoảng 300MB) nên cần phải tải template theo hướng dẫn tại MVC_Servlet_Web/DoAnCuoiKy/webapp/templates/ về mới chạy được
 ## Yêu cầu 
 - jre1.8.0_191
