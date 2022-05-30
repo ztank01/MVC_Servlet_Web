@@ -2,6 +2,11 @@
 - Võ Trường Duy : Thực hiện các chức năng cho Admin sử dụng
 - Hồ Huy Luật : Thực hiện các chức năng cho User sử dụng
 - Trịnh Công Trưởng : Thực hiện các chức năng cho Seller sử dụng
+# Giới thiệu code chức năng
+- vn.Vietshop thực thi các chức năng cho User sử dụng
+- vn.iotstar thực thi các chức năng cho Admin sử dụng
+- trinhtruong2k1.io.seller thực thi các chức năng cho Seller sử dụng
+# Hướng dẫn cấu hình
 ### Lưu ý: Do template khá nặng (khoảng 300MB) nên cần phải tải template theo hướng dẫn tại MVC_Servlet_Web/DoAnCuoiKy/webapp/templates/ về mới chạy được
 ## Yêu cầu 
 - jre1.8.0_191
@@ -25,7 +30,3 @@ Thay đổi nội dung các file:
 - Lưu icon category: D:\uploads\category\
 - Tên file giống như trong database. VD: Trong database tên file ảnh của sản phẩm là sp1.jpg thì hình ảnh của sản phẩm đó là file D:\uploads\product\sp1.jpg
 - Có thể thay đổi vị trí lưu hình ảnh bằng cách thay đổi PRODUCT_DIR và CATEGORY_DIR trong file Constant.java trong package trinhtruong2k1.io.seller.utils
-# Giới thiệu code chức năng
-- vn.Vietshop thực thi các chức năng cho User sử dụng
-- vn.iotstar thực thi các chức năng cho Admin sử dụng
-- trinhtruong2k1.io.seller thực thi các chức năng cho Seller sử dụng
