@@ -260,10 +260,10 @@ INSERT [dbo].[Product] ([ProductId], [ProductName], [Description], [Price], [Ima
 INSERT [dbo].[Product] ([ProductId], [ProductName], [Description], [Price], [ImageLink], [CategoryId], [SellerID], [Amount], [InStock]) VALUES (17, N'Máy lọc không khí AP T20 Homedics Mỹ', N'Máy lọc không khí HoMedics AP -T20 - Màu trắng - Nhập Khẩu Mỹ', 4750, N'sp17.jpg', 4, 2, 85, 277)
 INSERT [dbo].[Product] ([ProductId], [ProductName], [Description], [Price], [ImageLink], [CategoryId], [SellerID], [Amount], [InStock]) VALUES (18, N'Đèn Sưởi 2 Bóng Kaimeidi Hàng Nội Địa- 800W', N'Đèn Sưởi 2 Bóng Kaimeidi Hàng Nội Địa Công Suất 800W  Quạt Sưởi Halogen Siêu Bền Tỏa Nhiệt Đều Tiết Kiệm Điện Gấp 2 Lần', 218, N'sp18.jpg', 4, 2, 378, 124)
 GO
-INSERT [dbo].[Users] ([UserId], [UserName], [Password], [IsSeller], [IsAdmin]) VALUES (1, N'admin', N'123', 0, 1)
-INSERT [dbo].[Users] ([UserId], [UserName], [Password], [IsSeller], [IsAdmin]) VALUES (2, N'seller', N'81dc9bdb52d04dc20036dbd8313ed055
+INSERT [dbo].[Users] ([UserId], [UserName], [Password], [IsSeller], [IsAdmin]) VALUES (1, N'admin', N'202cb962ac59075b964b07152d234b70', 0, 1)
+INSERT [dbo].[Users] ([UserId], [UserName], [Password], [IsSeller], [IsAdmin]) VALUES (2, N'seller', N'202cb962ac59075b964b07152d234b70
 ', 1, 0)
-INSERT [dbo].[Users] ([UserId], [UserName], [Password], [IsSeller], [IsAdmin]) VALUES (3, N'user', N'123', 0, 0)
+INSERT [dbo].[Users] ([UserId], [UserName], [Password], [IsSeller], [IsAdmin]) VALUES (3, N'user', N'202cb962ac59075b964b07152d234b70', 0, 0)
 GO
 ALTER TABLE [dbo].[OrderItem]  WITH CHECK ADD  CONSTRAINT [don_hang] FOREIGN KEY([OrderID])
 REFERENCES [dbo].[Orders] ([OrderId])
